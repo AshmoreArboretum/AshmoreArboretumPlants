@@ -31,6 +31,3 @@ Mature shrub in a garden setting, displaying multi-stemmed form with flowers and
 ### Top Reference Sources
 - [Missouri Botanical Garden Plant Finder](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d422)
 
-cherrycreeknursery.com  
-thespruce.com  
-shop.myflowerland.com
