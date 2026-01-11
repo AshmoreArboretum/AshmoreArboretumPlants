@@ -30,8 +30,6 @@ Mature shrub in a garden setting, displaying multi-stemmed form with flowers and
 
 ### Top Reference Sources
 - [Missouri Botanical Garden Plant Finder](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d422)
-- [Monrovia (major grower)](https://www.monrovia.com/ann-magnolia.html)
-- [The Spruce – Growing Guide](https://www.thespruce.com/little-girl-magnolia-varieties-2132720)
 
 cherrycreeknursery.com  
 thespruce.com  
