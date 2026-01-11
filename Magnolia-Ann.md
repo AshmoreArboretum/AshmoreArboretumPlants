@@ -1,4 +1,4 @@
-## Sample 1: Magnolia × 'Ann'
+## Magnolia × 'Ann'
 **Preferred Light Exposure:** Full sun to part shade
 
 **Water Needs:** Regular watering — weekly, or more often in extreme heat. Once established, water deeply when the top few inches are dry. Prefers moist, well-drained, loamy soil.
@@ -16,6 +16,8 @@
 - Occasional light repeat bloom in summer
 - Smooth, attractive gray bark visible in winter
 - Ovate medium-green leaves turn yellow in fall
+
+**Deer Resistance:** Moderately resistant (deer usually avoid due to leathery leaves and fragrance, but may browse young plants if hungry)
 
 ### Plant Summary
 'Ann' is one of the famous "Little Girl" hybrid magnolias, bred by the U.S. National Arboretum from a cross between *Magnolia liliiflora* 'Nigra' and *Magnolia stellata* 'Rosea'. It grows slowly into a dense, rounded, multi-stemmed form that's perfect for smaller gardens, foundations, patios, or as a specimen in mixed borders. The large, chalice-shaped flowers appear reliably in mid-April to early May (depending on your climate), offering a spectacular spring display while mostly escaping damaging late frosts. It performs best in rich, evenly moist but well-drained soil with some afternoon shade in hotter regions.
