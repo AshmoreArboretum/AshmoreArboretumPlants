@@ -2,6 +2,7 @@
 title: Plant Catalog
 permalink: /plants/
 ---
+<img src="./Ashmore_Arboretum_Hrz.png" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
 ### Adiantum hispidulum
 
 **Rough Maidenhair Fern**  
