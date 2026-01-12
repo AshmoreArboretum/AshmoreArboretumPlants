@@ -1,6 +1,6 @@
 ---
 title: Plant Catalog
-permalink:/adiantum-hispidulum/
+permalink: /plants/
 ---
 ### Adiantum hispidulum
 
