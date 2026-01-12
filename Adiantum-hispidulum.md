@@ -1,3 +1,7 @@
+---
+title: Plant Catalog
+permalink: /plants/
+---
 <img src="./Ashmore Arboretum_Banner.JPG" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
 
 ### Adiantum hispidulum
