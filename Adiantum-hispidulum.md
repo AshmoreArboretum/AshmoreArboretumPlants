@@ -1,6 +1,3 @@
----
-title: Plant Catalog
----
 ### Adiantum hispidulum
 
 **Rough Maidenhair Fern**  
