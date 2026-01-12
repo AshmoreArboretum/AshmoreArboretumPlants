@@ -1,5 +1,4 @@
-title: Ashmore Arboretum   # This shows in browser tab; can be anything
-description: Plant catalog and info   # Optional subtitle
+title: "" # This shows in browser tab; can be anything
 theme: jekyll-theme-architect
 show_downloads: false   # Hides download buttons if present
-title: ""
+
