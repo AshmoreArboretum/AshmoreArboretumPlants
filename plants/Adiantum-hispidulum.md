@@ -3,7 +3,7 @@ layout: default  # or blank if you want minimal
 title: Adiantum hispidulum  # Use scientific name for page title
 common_name: Fern - Rough Maidenhair
 scientific_name: Adiantum hispidulum
-permalink: /plants/adiantum-hispidulum/  # Optional: makes URL like /plants/adiantum-hispidulum/
+# permalink: /plants/adiantum-hispidulum/  # Optional: makes URL like /plants/adiantum-hispidulum/
 ---
 
 <img src="/images/banner.jpg" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
