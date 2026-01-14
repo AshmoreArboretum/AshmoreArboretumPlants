@@ -27,7 +27,7 @@ permalink: /plants/
 
 ![1 adiantum_hispid_plt2(PS7)](https://github.com/user-attachments/assets/1f82314b-af23-4eab-bd48-4e27907206e8)
 
-### Links to Top Sources
+### Links to Top Sources...
 
 - [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285702)
 - [Monrovia (major grower, related rosy maidenhair info)](https://www.monrovia.com/rosy-australian-maidenhair-fern.html)
