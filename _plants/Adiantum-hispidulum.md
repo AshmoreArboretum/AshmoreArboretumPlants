@@ -1,5 +1,4 @@
 ---
-permalink: /plants/adiantum-hispidulum/   # This makes the page live at /plants/adiantum-hispidulum/
 title: Adiantum hispidulum
 common_name: Fern - Rough Maidenhair
 scientific_name: Adiantum hispidulum
