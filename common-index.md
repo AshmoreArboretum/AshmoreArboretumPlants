@@ -5,6 +5,8 @@ permalink: /common/
 
 # Plants by Common Name
 
+Number of plants: {{ site.plants | size }}
+
 <ul>
 {% assign sorted_plants = site.plants | sort: 'common_name' %}
 {% for plant in sorted_plants %}
