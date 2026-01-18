@@ -1,5 +1,4 @@
 ---
-layout: default  # or blank if you want minimal
 permalink: /plants/Hosta-ShadowlandWheee/   # This makes the page live at /plants/adiantum-hispidulum/
 title: Hosta - Shadowland Wheee!  # Use scientific name for page title
 common_name: Hosta - Shadowland Wheee!
