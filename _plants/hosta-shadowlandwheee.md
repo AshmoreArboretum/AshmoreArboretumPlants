@@ -1,5 +1,4 @@
 ---
-permalink: /plants/hosta-shadowlandwheee/
 title: hosta - shadowland wheee  # Use scientific name for page title
 common_name: Hosta - Shadowland Wheee!
 scientific_name: Hosta hybrid 'Wheee!'
@@ -31,4 +30,4 @@ scientific_name: Hosta hybrid 'Wheee!'
 - Proven Winners (major grower): https://www.provenwinners.com/plants/hosta/shadowland-wheee-hosta-hybrid  
 - Missouri Botanical Garden: https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=365953
 
-### permalink: /plants/Hosta-ShadowlandWheee/   # This makes the page live at /plants/adiantum-hispidulum/
+### permalink: /plants/hosta-shadowlandwheee/   # This makes the page live at /plants/adiantum-hispidulum/
