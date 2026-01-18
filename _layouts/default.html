@@ -8,21 +8,31 @@
       body { font-family: system-ui, -apple-system, Roboto, "Helvetica Neue", Arial; padding: 1rem; line-height: 1.6; }
       header nav a { margin-right: 1rem; }
       main { max-width: 900px; margin: 0 auto; }
+      .site-banner { text-align: center; margin-bottom: 0.5rem; }
     </style>
   </head>
   <body>
     <header>
-      <h1><a href="{{ site.baseurl | prepend: site.url | relative_url }}">{{ site.title }}</a></h1>
+      <div class="site-banner">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/images/banner.png' | relative_url }}" alt="Ashmore Arboretum Logo" width="300" style="display:block; margin:0 auto;" />
+        </a>
+      </div>
+
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+
       <nav>
-        <a href="{{ site.baseurl }}/">Home</a>
-        <a href="{{ site.baseurl }}/common/">By common name</a>
-        <a href="{{ site.baseurl }}/scientific/">By scientific name</a>
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/common/' | relative_url }}">By common name</a>
+        <a href="{{ '/scientific/' | relative_url }}">By scientific name</a>
       </nav>
       <hr/>
     </header>
+
     <main>
       {{ content }}
     </main>
+
     <footer>
       <hr/>
       <small>© {{ site.title }}</small>
