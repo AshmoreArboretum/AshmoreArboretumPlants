@@ -1,9 +1,9 @@
 ---
 layout: default  # or blank if you want minimal
 permalink: /plants/Hosta-ShadowlandWheee/   # This makes the page live at /plants/adiantum-hispidulum/
-title: Hosta 'Shadowland Wheee!'  # Use scientific name for page title
-common_name: Hosta - 'Shadowland Wheee!'
-scientific_name: Hosta hybrid 'Wheee!
+title: Hosta - Shadowland Wheee!  # Use scientific name for page title
+common_name: Hosta - Shadowland Wheee!
+scientific_name: Hosta hybrid 'Wheee!'
 ---
 <img src="/images/banner.png" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
 
