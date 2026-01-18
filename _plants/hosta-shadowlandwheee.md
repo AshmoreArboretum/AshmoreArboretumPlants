@@ -1,6 +1,6 @@
 ---
 permalink: /plants/hosta-shadowlandwheee/
-title: Hosta - Shadowland Wheee!  # Use scientific name for page title
+title: hosta - shadowland wheee  # Use scientific name for page title
 common_name: Hosta - Shadowland Wheee!
 scientific_name: Hosta hybrid 'Wheee!'
 ---
