@@ -1,8 +1,10 @@
 ---
-title: Adiantum hispidulum  # Use scientific name for page title
+permalink: /plants/adiantum-hispidulum/   # This makes the page live at /plants/adiantum-hispidulum/
+title: Adiantum hispidulum
 common_name: Fern - Rough Maidenhair
 scientific_name: Adiantum hispidulum
 ---
+
 <img src="/images/banner.png" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
 
 ### Adiantum hispidulum
