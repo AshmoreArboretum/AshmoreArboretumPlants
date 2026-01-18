@@ -1,5 +1,4 @@
 ---
-permalink: /plants/Magnolia-Ann/   # This makes the page live at /plants/Magnolia-Ann/
 title: Magnolia Ann  # Use scientific name for page title
 common_name: Magnolia Ann
 scientific_name: Magnolia × 'Ann'
