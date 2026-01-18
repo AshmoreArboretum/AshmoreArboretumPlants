@@ -1,0 +1,12 @@
+---
+# layout file for individual plant pages (used by defaults for collection)
+---
+<article>
+  <h2>{{ page.common_name | default: page.title }}</h2>
+  {% if page.scientific_name %}<p><em>{{ page.scientific_name }}</em></p>{% endif %}
+  <section>
+    {{ content }}
+  </section>
+
+  <p><a href="{{ site.baseurl }}/common/">Back to common index</a> · <a href="{{ site.baseurl }}/scientific/">Back to scientific index</a></p>
+</article>
