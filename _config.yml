@@ -1,8 +1,8 @@
 title: "Ashmore Arboretum Plants"
 description: "Plant listings for Ashmore Arboretum"
-# Set baseurl to "/AshmoreArboretumPlants" if you publish at
-# https://ashmorearboretum.github.io/AshmoreArboretumPlants
-baseurl: "/AshmoreArboretumPlants"
+
+# For a user/organization site root (https://ashmorearboretum.github.io/), use an empty baseurl:
+baseurl: ""
 url: "https://ashmorearboretum.github.io"
 
 markdown: kramdown
