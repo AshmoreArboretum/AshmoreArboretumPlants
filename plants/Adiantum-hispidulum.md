@@ -1,5 +1,4 @@
 ---
-layout: default  # or blank if you want minimal
 permalink: /plants/adiantum-hispidulum/   # This makes the page live at /plants/adiantum-hispidulum/
 title: Adiantum hispidulum  # Use scientific name for page title
 common_name: Fern - Rough Maidenhair
