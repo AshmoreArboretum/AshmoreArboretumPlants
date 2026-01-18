@@ -5,4 +5,4 @@ show_downloads: false   # Hides download buttons if present
 collections:
   plants:
     output: true  # Makes each plant page live
-    permalink: /plants/:title/  # URL like /plants/adiantum-hispidulum/
+
