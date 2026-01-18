@@ -5,6 +5,6 @@ show_downloads: false   # Hides download buttons if present
 collections:
   plants:
     output: true
-    permalink: /plants/:name/  # Use :name instead of :title (uses filename slug)
+    permalink: /plants/:slug/  # :slug lowercases and hyphens title
 
 debug: true
