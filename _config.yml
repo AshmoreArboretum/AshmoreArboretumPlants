@@ -1,10 +1,26 @@
-title: "" # This shows in browser tab; can be anything
-# theme: jekyll-theme-architect
-show_downloads: false   # Hides download buttons if present
-# logo: /Ashmore-Arboretum-Banner.JPG   # Or /assets/img/logo.png
+title: "Ashmore Arboretum Plants"
+description: "Plant listings for Ashmore Arboretum"
+# Set baseurl to "/AshmoreArboretumPlants" if you publish at
+# https://ashmorearboretum.github.io/AshmoreArboretumPlants
+baseurl: "/AshmoreArboretumPlants"
+url: "https://ashmorearboretum.github.io"
+
+markdown: kramdown
+permalink: pretty
+
 collections:
   plants:
     output: true
-    permalink: /plants/:slug/  # :slug lowercases and hyphens title
+    permalink: /plants/:name/
 
-debug: true
+defaults:
+  - scope:
+      path: ""
+      type: "plants"
+    values:
+      layout: "plant"
+
+# Exclude node / build artifacts (optional)
+exclude:
+  - node_modules
+  - vendor/bundle
