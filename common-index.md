@@ -1,9 +1,10 @@
 ---
+layout: default
 title: Plants by Common Name
 permalink: /common/
 ---
 
-# Plants by Common Name 01/18/2026 10:27 
+# Plants by Common Name
 
 Collection files found: {{ site.plants | map: 'path' | join: ', ' }}
 
@@ -12,8 +13,6 @@ Number of plants: {{ site.plants | size }}
 <ul>
 {% assign sorted_plants = site.plants | sort: 'common_name' %}
 {% for plant in sorted_plants %}
-  <li><a href="{{ plant.url }}">{{ plant.common_name }}</a> ({{ plant.scientific_name }})</li>
+  <li><a href="{{ plant.url | relative_url }}">{{ plant.common_name }}</a> ({{ plant.scientific_name }})</li>
 {% endfor %}
 </ul>
-
-Try again
