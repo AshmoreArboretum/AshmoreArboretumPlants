@@ -1,4 +1,5 @@
 ---
+permalink: /plants/magnolia-ann/
 title: Magnolia Ann  # Use scientific name for page title
 common_name: Magnolia Ann
 scientific_name: Magnolia × 'Ann'
