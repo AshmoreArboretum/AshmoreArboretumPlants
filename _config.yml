@@ -8,5 +8,3 @@ collections:
     permalink: /plants/:slug/  # :slug lowercases and hyphens title
 
 debug: true
-
-force rebuild2
