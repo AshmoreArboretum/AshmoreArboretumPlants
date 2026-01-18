@@ -1,6 +1,6 @@
 ---
 permalink: /plants/adiantum-hispidulum/
-title: Adiantum hispidulum
+title: adiantum hispidulum
 common_name: Fern - Rough Maidenhair
 scientific_name: Adiantum hispidulum
 ---
