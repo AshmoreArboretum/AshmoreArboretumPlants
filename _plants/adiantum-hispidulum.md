@@ -10,7 +10,7 @@ scientific_name: Adiantum hispidulum
 **Rough Maidenhair Fern**
 *Adiantum hispidulum*
 
-- **Preferred Light Exposure:** Part shade to full shade.  
+- **Preferred Light Exposure:** Part shade to full shade.  test depoly
 - **Water Needs/Environment Needs:** Consistently moist, well-drained soil; high humidity preferred; keep soil evenly moist (avoid drying out); tolerates some dryness once established but performs best with regular moisture  
 - **Zone Range:** 7-10  
 - **Size:** 1-1.5 feet tall × 1-1.5 feet wide  
