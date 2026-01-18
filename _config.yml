@@ -6,3 +6,4 @@ collections:
   plants:
     output: true  # Makes each plant page live
 
+debug: true
