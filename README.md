@@ -6,6 +6,6 @@ Contains  plant names, key info, and links to plant information - at the garden,
 
 INDEX
 
-[Browse by Common Name](/common/)
+[Browse by Common Name](https://ashmorearboretum.github.io/AshmoreArboretumPlants/common/)
 
-[Browse by Scientific Name](/scientific/)
+[Browse by Scientific Name](https://ashmorearboretum.github.io/AshmoreArboretumPlants/scientific/)
