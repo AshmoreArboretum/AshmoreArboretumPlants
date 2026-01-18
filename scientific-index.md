@@ -15,3 +15,5 @@ Number of plants: {{ site.plants | size }}
   <li><a href="{{ plant.url }}">{{ plant.scientific_name }}</a> ({{ plant.common_name }})</li>
 {% endfor %}
 </ul>
+
+Try again
