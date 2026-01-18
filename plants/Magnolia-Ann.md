@@ -1,7 +1,6 @@
 ---
-layout: default  # or blank if you want minimal
 permalink: /plants/Magnolia-Ann/   # This makes the page live at /plants/adiantum-hispidulum/
-title: Adiantum hispidulum  # Use scientific name for page title
+title: Magnolia Ann  # Use scientific name for page title
 common_name: Magnolia Ann
 scientific_name: Magnolia × 'Ann'
 ---
