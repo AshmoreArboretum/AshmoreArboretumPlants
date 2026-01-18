@@ -1,5 +1,5 @@
 ---
-title: Plants by Scientific Name 2
+title: Plants by Scientific Name
 permalink: /scientific/
 ---
 
@@ -11,3 +11,5 @@ permalink: /scientific/
   <li><a href="{{ plant.url }}">{{ plant.scientific_name }}</a> ({{ plant.common_name }})</li>
 {% endfor %}
 </ul>
+
+Test
