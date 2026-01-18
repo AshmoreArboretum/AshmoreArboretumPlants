@@ -1,5 +1,5 @@
 ---
-title: Plants by Scientific Name
+title: Plants by Scientific Name 2
 permalink: /scientific/
 ---
 
