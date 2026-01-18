@@ -4,6 +4,7 @@ show_downloads: false   # Hides download buttons if present
 # logo: /Ashmore-Arboretum-Banner.JPG   # Or /assets/img/logo.png
 collections:
   plants:
-    output: true  # Makes each plant page live
+    output: true
+    permalink: /plants/:name/  # Use :name instead of :title (uses filename slug)
 
 debug: true
