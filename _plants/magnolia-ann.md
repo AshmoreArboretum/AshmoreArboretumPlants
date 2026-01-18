@@ -1,5 +1,4 @@
 ---
-permalink: /plants/magnolia-ann/
 title: magnolia ann  # Use scientific name for page title
 common_name: Magnolia Ann
 scientific_name: Magnolia × 'Ann'
@@ -41,4 +40,4 @@ Mature shrub in a garden setting, displaying multi-stemmed form with flowers and
 ### Top Reference Sources
 - [Missouri Botanical Garden Plant Finder](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=d422)
 
-### permalink: /plants/Magnolia-Ann/   # This makes the page live at /plants/adiantum-hispidulum/
+### permalink: /plants/magnolia-ann/   # This makes the page live at /plants/adiantum-hispidulum/
