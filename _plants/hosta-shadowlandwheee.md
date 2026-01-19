@@ -29,5 +29,3 @@ scientific_name: Hosta hybrid 'Wheee!'
 **Links to Top Sources:**  
 - Proven Winners (major grower): https://www.provenwinners.com/plants/hosta/shadowland-wheee-hosta-hybrid  
 - Missouri Botanical Garden: https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=365953
-
-### permalink: /plants/hosta-shadowlandwheee/   # This makes the page live at /plants/adiantum-hispidulum/
