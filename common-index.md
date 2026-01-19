@@ -6,8 +6,6 @@ permalink: /common/
 
 # Plants by Common Name
 
-Collection files found: {{ site.plants | map: 'path' | join: ', ' }}
-
 Number of plants: {{ site.plants | size }}
 
 <ul>
