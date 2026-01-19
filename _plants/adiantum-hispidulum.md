@@ -32,5 +32,3 @@ scientific_name: Adiantum hispidulum
 
 - [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=285702)
 - [Monrovia (major grower, related rosy maidenhair info)](https://www.monrovia.com/rosy-australian-maidenhair-fern.html)
-
-### permalink: /plants/adiantum-hispidulum/   # This makes the page live at /plants/adiantum-hispidulum/
