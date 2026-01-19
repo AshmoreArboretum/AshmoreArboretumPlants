@@ -3,10 +3,14 @@
 ---
 <article>
   <h2>{{ page.common_name | default: page.title }}</h2>
-  {% if page.scientific_name %}<p><em>{{ page.scientific_name }}</em></p>{% endif %}
+
+  {% if page.scientific_name %}
+  <p><em>{{ page.scientific_name }}</em></p>
+  {% endif %}
+
   <section>
     {{ content }}
   </section>
 
-<p><a href="{{ '/common/' | relative_url }}">Back to common index</a> · <a href="{{ '/scientific/' | relative_url }}">Back to scientific index</a></p>
+  <p><a href="{{ '/common/' | relative_url }}">Back to common index</a> · <a href="{{ '/scientific/' | relative_url }}">Back to scientific index</a></p>
 </article>
