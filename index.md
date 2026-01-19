@@ -4,10 +4,6 @@ title: Ashmore Arboretum Plants
 permalink: /
 ---
 
-# Ashmore Arboretum Plants
-
-Welcome. Browse the site:
-
 - [Plants by Common Name]({{ site.baseurl }}/common/)
 - [Plants by Scientific Name]({{ site.baseurl }}/scientific/)
 
