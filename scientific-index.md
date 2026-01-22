@@ -3,9 +3,7 @@ layout: default
 title: Plants by Scientific Name
 permalink: /scientific/
 ---
-
 # <span style="font-size: 1.5rem;">Plants by Scientific Name</span>
-
 Number of plants: {{ site.plants | size }}
 
 <ul>
