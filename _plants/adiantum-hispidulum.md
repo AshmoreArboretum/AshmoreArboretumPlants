@@ -4,7 +4,7 @@ common_name: Fern - Rough Maidenhair
 scientific_name: Adiantum hispidulum
 ---
 
-<img src="/images/banner.png" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
+<img src="/images/banner.jpg" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
 
 ### Adiantum hispidulum
 **Rough Maidenhair Fern**
