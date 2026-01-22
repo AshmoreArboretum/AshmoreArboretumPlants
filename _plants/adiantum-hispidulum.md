@@ -1,4 +1,5 @@
 ---
+layout: default
 title: adiantum hispidulum
 common_name: Fern - Rough Maidenhair
 scientific_name: Adiantum hispidulum
