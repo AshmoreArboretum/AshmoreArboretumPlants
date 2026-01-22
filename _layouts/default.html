@@ -6,9 +6,19 @@
     <title>{{ page.title | default: site.title }}</title>
     <style>
       body { font-family: system-ui, -apple-system, Roboto, "Helvetica Neue", Arial; padding: 1rem; line-height: 1.6; }
-      header nav a { margin-right: 1rem; }
+      header nav a { 
+        margin-right: 1rem; 
+        font-size: 0.85rem; /* Smaller navigation text */
+      }
       main { max-width: 900px; margin: 0 auto; }
-      .site-banner { text-align: left; margin-bottom: 0.5rem; }
+      .site-banner { 
+        text-align: left; 
+        margin-bottom: 0.5rem; 
+      }
+      .site-banner img {
+        display: block; 
+        margin: 0; /* Removed auto to left-align */
+      }
     </style>
   </head>
   <body>
@@ -21,7 +31,7 @@
       
       <div class="site-banner">
         <a href="{{ '/' | relative_url }}">
-          <img src="{{ '/images/banner.jpg' | relative_url }}" alt="Ashmore Arboretum Logo" width="300" style="display:block; margin:0 auto;" />
+          <img src="{{ '/images/banner.jpg' | relative_url }}" alt="Ashmore Arboretum Logo" width="300" style="display:block;" />
         </a>
       </div>
  
