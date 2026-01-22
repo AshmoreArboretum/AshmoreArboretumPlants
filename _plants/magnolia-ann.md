@@ -3,7 +3,7 @@ title: magnolia ann  # Use scientific name for page title
 common_name: Magnolia Ann
 scientific_name: Magnolia × 'Ann'
 ---
-<img src="/images/banner.png" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
+<img src="/images/banner.jpg" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
 
 ## Magnolia × 'Ann'
 **Preferred Light Exposure:** Full sun to part shade
