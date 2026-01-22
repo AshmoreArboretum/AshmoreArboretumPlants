@@ -1,9 +1,9 @@
 ---
+layout: default
 title: hosta - shadowland wheee  # Use scientific name for page title
 common_name: Hosta - Shadowland Wheee!
 scientific_name: Hosta hybrid 'Wheee!'
 ---
-<img src="/images/banner.jpg" alt="Ashmore Arboretum Logo" width="300" style="display: block; margin: 0 auto;">
 
 ### Hosta 'Shadowland Wheee!'
 
