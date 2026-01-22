@@ -4,7 +4,7 @@ title: Plants by Common Name
 permalink: /common/
 ---
 
-# Plants by Common Name
+# <span style="font-size: 1.5rem;">Plants by Common Name</span>
 
 Number of plants: {{ site.plants | size }}
 
