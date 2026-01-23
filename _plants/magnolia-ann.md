@@ -5,8 +5,7 @@ common_name: Magnolia Ann
 scientific_name: Magnolia × 'Ann'
 ---
 
-**Magnolia 'Ann'**
-
+## Magnolia 'Ann'
 *Magnolia × 'Ann'*
 
 **Preferred Light Exposure:** Full sun to part shade
