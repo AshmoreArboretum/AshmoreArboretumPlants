@@ -5,7 +5,7 @@ common_name: Gardenia ScentAmazing
 scientific_name: Gardenia jasminoides LEETWO
 ---
 
-**Gardenia ScentAmazing**
+**ScentAmazing Gardenia**
 
 *Gardenia jasminoides 'LEETWO' PP27601*
 
