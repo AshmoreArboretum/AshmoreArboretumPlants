@@ -5,8 +5,7 @@ common_name: Gardenia ScentAmazing
 scientific_name: Gardenia jasminoides LEETWO
 ---
 
-**ScentAmazing Gardenia**
-
+## ScentAmazing Gardenia
 *Gardenia jasminoides 'LEETWO' PP27601*
 
 - **Preferred Light Exposure:** Full sun to part shade (morning sun with afternoon shade in hotter climates).
