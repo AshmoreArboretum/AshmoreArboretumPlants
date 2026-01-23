@@ -5,7 +5,10 @@ common_name: Magnolia Ann
 scientific_name: Magnolia × 'Ann'
 ---
 
-## Magnolia × 'Ann'
+**Magnolia 'Ann'**
+
+*Magnolia × 'Ann'*
+
 **Preferred Light Exposure:** Full sun to part shade
 
 **Water Needs:** Regular watering — weekly, or more often in extreme heat. Once established, water deeply when the top few inches are dry. Prefers moist, well-drained, loamy soil.
