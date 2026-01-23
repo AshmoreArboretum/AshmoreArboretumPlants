@@ -1,9 +1,10 @@
 ---
 layout: default
 title: rhododendron autumn starlite
-common_name: Azalea Autumn Starlite Encore
+common_name: Azalea - Autumn Starlite Encore
 scientific_name: Rhododendron 'Roblem' PP15043
 ---
+
 ## Autumn Starlite Encore Azalea
 *Rhododendron 'Roblem' PP15043*
 
@@ -20,13 +21,13 @@ scientific_name: Rhododendron 'Roblem' PP15043
 ![Autumn Starlite Encore Azalea flowers](https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280w/products/262/915/Autumn_Starlite_Encore_Azalea_Flower__04618.1500245926.jpg?c=2)
 - Close-up of the large 3-inch white blooms with distinctive pink flecks and stripes.
 
-![Autumn Starlite Encore Azalea habit](https://www.wilsonbrosgardens.com/assets/images/Encore-Azalea-AutumnStarlite.jpg)
+![Autumn Starlite Encore Azalea habit](https://encoreazalea.com/wp-content/uploads/171012_Azaleas091-2-1024x683.jpg)
 - Overall view of the compact, rounded shrub showing flower coverage and foliage.
 
-![Autumn Starlite Encore Azalea plant](https://kiefernursery.com/wp-content/uploads/2017/11/astar1.jpg)
-- Mature plant in bloom, highlighting the dense habit and light green leaves.
+![Autumn Starlite Encore Azalea plant](https://www.lsuagcenter.com/~/media/system/0/2/b/1/02b1ce06f114443623335d2937f53b75/autumnsangriasustlandscapeazaleanov5.jpg?bc=white&as=0&mh=400&mw=1110&sc=25&thn=0)
+- Mature plant in a garden setting, highlighting the dense habit and light green leaves.
 
 ### Links to Top Sources...
-- [Encore Azalea Official](https://encoreazalea.com/the-collection/plant/autumn-starlite/) (Note: Check for direct page if available; brand site often has care guides)
+- [Encore Azalea Official](https://encoreazalea.com/the-collection/plant/autumn-starlite/)
 - [Plant Addicts](https://plantaddicts.com/autumn-starlite-encore-azalea)
 - [US Plant Patent PP15043](https://patents.google.com/patent/USPP15043)
