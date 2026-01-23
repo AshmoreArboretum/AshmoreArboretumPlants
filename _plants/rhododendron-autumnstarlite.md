@@ -1,7 +1,7 @@
 ---
 layout: default
 title: rhododendron autumn starlite
-common_name: Autumn Starlite Encore Azalea
+common_name: Azalea Autumn Starlite Encore
 scientific_name: Rhododendron 'Roblem' PP15043
 ---
 ## Autumn Starlite Encore Azalea
