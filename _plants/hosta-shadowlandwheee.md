@@ -5,8 +5,7 @@ common_name: Hosta - Shadowland Wheee!
 scientific_name: Hosta hybrid 'Wheee!'
 ---
 
-**Hosta 'Shadowland Wheee!** 
-
+## Hosta 'Shadowland Wheee!
 *Hosta hybrid 'Wheee!'*
 
 - **Preferred Light Exposure:** Part shade to full shade  
