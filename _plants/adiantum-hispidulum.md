@@ -5,8 +5,7 @@ common_name: Fern - Rough Maidenhair
 scientific_name: Adiantum hispidulum
 ---
 
-**Rough Maidenhair Fern**
-
+## Rough Maidenhair Fern
 *Adiantum hispidulum*
 
 - **Preferred Light Exposure:** Part shade to full shade.  test depoly
