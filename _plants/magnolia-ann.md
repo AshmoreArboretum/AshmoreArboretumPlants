@@ -1,7 +1,7 @@
 ---
 layout: default
 title: magnolia ann  # Use scientific name for page title
-common_name: Magnolia Ann
+common_name: Magnolia - Ann
 scientific_name: Magnolia × 'Ann'
 ---
 
