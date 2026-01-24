@@ -19,13 +19,13 @@ scientific_name: Rhododendron 'Robles' PP22762
 **Plant Summary:** This vibrant Encore® Azalea cultivar stands out for its multi-season reblooming, featuring bright lavender flowers accented with dark purple freckles that appear in heavy spring flushes and continue sporadically through summer and fall until frost. It develops into a compact, densely branched evergreen shrub with shiny dark green leaves that offer year-round appeal and structure. Bred for reliable performance and pollinator attraction, it's well-suited to Southern gardens like those in Atlanta, enhancing borders, entryways, or small spaces with color and wildlife interest.
 
 <img src="https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280x1280/products/801/3843/Autumn_Lilac_Encore_Azalea_Flower_Close_Up_Main__45298.1553567912.jpg?c=2" style="max-width: 100%; height: auto;">
-Close-up of the lavender blooms with dark purple freckles.
+Close-up of the lavender blooms with dark purple freckles. Credit: BigCommerce.com
 
 <img src="https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280x1280/products/801/27029/Autumn_Lilac_Encore_Azalea_flowers_and_foliage__44314.1710817411.jpg?c=2" style="max-width: 100%; height: auto;">
-Overall view of the compact, rounded shrub showing flower coverage and foliage.
+Overall view of the compact, rounded shrub showing flower coverage and foliage. Credit: BigCommerce.com
 
 <img src="https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280x1280/products/801/27031/Large_Autumn_Lilac_Encore_Azalea_growing__35729.1710817413.jpg?c=2" style="max-width: 100%; height: auto;">
-Mature plant in a garden setting, highlighting the dense habit and dark green leaves.
+Mature plant in a garden setting, highlighting the dense habit and dark green leaves. Credit: BigCommerce.com
 
 ### Links to Top Sources...
 - [Encore Azalea Official](https://encoreazalea.com/the-collection/plant/autumn-lilac)
