@@ -32,6 +32,8 @@ scientific_name: Magnolia × 'Ann'
 'Ann' is one of the famous "Little Girl" hybrid magnolias, bred by the U.S. National Arboretum from a cross between *Magnolia liliiflora* 'Nigra' and *Magnolia stellata* 'Rosea'. It grows slowly into a dense, rounded, multi-stemmed form that's perfect for smaller gardens, foundations, patios, or as a specimen in mixed borders. The large, chalice-shaped flowers appear reliably in mid-April to early May (depending on your climate), offering a spectacular spring display while mostly escaping damaging late frosts. It performs best in rich, evenly moist but well-drained soil with some afternoon shade in hotter regions.
 
 ### Photos
+<img src="https://github.com/user-attachments/assets/85439738-59a9-4ca7-8ee3-eaeb821a3242" alt="Close-up showing large, cup-shaped purple-red flowers with a light scent, often with 6-8 tepals opening wide." style="max-width: 100%; height: auto;">
+
 ![magnolia-Ann-1-1](https://github.com/user-attachments/assets/85439738-59a9-4ca7-8ee3-eaeb821a3242)
 Close-up showing large, cup-shaped purple-red flowers with a light scent, often with 6-8 tepals opening wide.
 ![SPR-magnolia-ann-care-guide-7373637-hero-c3e32292e4094c16bfd366296597d4bf](https://github.com/user-attachments/assets/3e1f17c9-5217-49d5-8d39-1faebf7ac4e5)
