@@ -18,11 +18,14 @@ scientific_name: Rhododendron 'Robles' PP22762
 
 **Plant Summary:** This vibrant Encore® Azalea cultivar stands out for its multi-season reblooming, featuring bright lavender flowers accented with dark purple freckles that appear in heavy spring flushes and continue sporadically through summer and fall until frost. It develops into a compact, densely branched evergreen shrub with shiny dark green leaves that offer year-round appeal and structure. Bred for reliable performance and pollinator attraction, it's well-suited to Southern gardens like those in Atlanta, enhancing borders, entryways, or small spaces with color and wildlife interest.
 
-![](https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280w/products/801/3843/Autumn_Lilac_Encore_Azalea_Flower_Close_Up_Main__45298.1553567912.jpg?c=2) Close-up of the lavender blooms with dark purple freckles.
+<img src="https://encoreazalea.com/wp-content/uploads/Autumn-Lilac-Closeup.jpg" style="max-width: 100%; height: auto;">
+- Close-up of the lavender blooms with dark purple freckles.
 
-![](https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280w/products/801/27031/Large_Autumn_Lilac_Encore_Azalea_growing__35729.1710817413.jpg?c=2) Overall view of the compact, rounded shrub showing flower coverage and foliage.
+<img src="https://plantaddicts.com/cdn/shop/products/AutumnLilacEncoreAzalea1.jpg?v=1699999999" style="max-width: 100%; height: auto;">
+- Overall view of the compact, rounded shrub showing flower coverage and foliage.
 
-![](https://images.mobot.org/PlantRecordsVol2/prod/small240/00031000/F737-0109131taa.jpg) Mature plant in a garden setting, highlighting the dense habit and dark green leaves.
+<img src="https://www.missouribotanicalgarden.org/PlantFinder/FullImage.aspx?taxonid=272158" style="max-width: 100%; height: auto;">
+- Mature plant in a garden setting, highlighting the dense habit and dark green leaves.
 
 ### Links to Top Sources...
 - [Encore Azalea Official](https://encoreazalea.com/the-collection/plant/autumn-lilac)
