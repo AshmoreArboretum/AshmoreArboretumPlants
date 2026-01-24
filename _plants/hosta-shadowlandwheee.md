@@ -18,11 +18,11 @@ scientific_name: Hosta hybrid 'Wheee!'
 
 **Plant Summary:** This distinctive hosta features medium-sized, ruffled green leaves with cream edges, creating a fun, textured appearance in shade gardens or containers. It's a mutation discovered in 2004, with good substance that enhances durability. In midsummer, light lavender flowers emerge on purple scapes, adding vertical interest. It prefers evenly moist soil and performs best with dappled light, making it a low-maintenance filler plant.
 
-![Shadowland_Wheee_Hosta_Leaf__84265](https://github.com/user-attachments/assets/744183ae-38ae-49d3-87cd-43ae1f20c6f7)
-- Close-up plant: Detailed image of ruffled leaves showing green centers with cream margins and thick texture.
+<img src="https://github.com/user-attachments/assets/744183ae-38ae-49d3-87cd-43ae1f20c6f7" style="max-width: 100%; height: auto;">
+Close-up plant: Detailed image of ruffled leaves showing green centers with cream margins and thick texture.
     
-![Shadowland_Wheee_Hosta_Full_Size_Plant__44330](https://github.com/user-attachments/assets/51cbf66c-3569-4774-aacd-39fbbda84670)
-- Full size plant: Mounded clump in a shade garden, illustrating the wide-spreading, low-growing form.  
+<img src="https://github.com/user-attachments/assets/51cbf66c-3569-4774-aacd-39fbbda84670" style="max-width: 100%; height: auto;">
+Full size plant: Mounded clump in a shade garden, illustrating the wide-spreading, low-growing form.  
 
 **Links to Top Sources:**  
 - Proven Winners (major grower): https://www.provenwinners.com/plants/hosta/shadowland-wheee-hosta-hybrid  
