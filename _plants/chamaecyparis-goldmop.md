@@ -1,7 +1,7 @@
 ---
 layout: default
 title: chamaecyparis gold mop
-common_name: False Cypress - Gold Mop False Cypress
+common_name: False Cypress - Gold Mop
 scientific_name: Chamaecyparis pisifera 'Gold Mop'
 ---
 
@@ -16,16 +16,17 @@ scientific_name: Chamaecyparis pisifera 'Gold Mop'
 - **Prominent Features:** Bright golden-yellow, thread-like, stringy foliage that holds color year-round (intensifies in full sun); soft, pendulous, mop-like habit with semi-weeping branches; evergreen with no pruning needed for shape; deer resistant; disease/pest tolerant; adds bright accent, texture, and winter interest; ideal for rock gardens, borders, foundations, containers, specimen planting, or mixed conifer beds.
 - **Deer Resistance:** High (aromatic foliage and texture deter browsing; often listed as deer resistant in nursery guides).
 
-**Plant Summary:** This popular dwarf false cypress cultivar forms a cheerful, low-mounding evergreen shrub with cascading, thread-like foliage in vivid golden-yellow tones that brighten gardens year-round. It grows slowly with minimal care, thriving in full sun for the best color while adapting to average soils and providing natural resistance to deer and pests. Excellent for Atlanta landscapes in rockeries, front borders, containers, or as a colorful accent—offering soft texture, bright evergreen appeal, and a whimsical "mop" shape without any maintenance.
+**Plant Summary:** This popular dwarf false cypress cultivar forms a cheerful, low-mounding evergreen shrub with cascading, thread-like foliage in vivid golden-yellow tones that brighten gardens year-round. It grows slowly with minimal care, thriving in full sun for the best color while adapting to average soils and providing natural resistance to deer and pests. Excellent for Atlanta landscapes in rockeries, front borders, containers, or as a colorful accent—offering soft texture, bright evergreen appeal, and a whimsical “mop” shape without any maintenance.
 
-<img src="https://www.monrovia.com/media/catalog/product/cache/7b381462074fb6871f01f9faa7ed2e11/g/o/golden-mop-threadleaf-false-cypress-closeup.jpg" style="max-width: 100%; height: auto;">
-Close-up of the bright golden-yellow, thread-like foliage. Credit: monrovia.com
+<img src="https://images.mobot.org/PlantRecordsVol2/prod/large960/00030000/D844-0419121gk.jpg" style="max-width: 100%; height: auto;">
+Credit: missouribotanicalgarden.org
 
-<img src="https://plantaddicts.com/cdn/shop/products/GoldMopFalseCypress1.jpg?v=example" style="max-width: 100%; height: auto;">
+<img src="https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1280x1280/products/4570/26598/Gold_Mop_False_Cypress_Leaves__04881.1710734089.jpg?c=2" style="max-width: 100%; height: auto;">
 Overall view of the mounding, semi-weeping shrub form with golden color. Credit: plantaddicts.com
 
-<img src="https://www.coniferkingdom.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chamaecyparis-pisifera-golden-mop-1.jpg" style="max-width: 100%; height: auto;">
-Mature plant in a garden setting, showing the compact mop-like habit and evergreen structure. Credit: coniferkingdom.com
+<img src="https://www.monrovia.com/media/catalog/product/cache/7b381462074fb6871f01f9faa7ed2e11/r/e/rest_7_0_7079.webp" style="max-width: 100%; height: auto;">
+Mature plant in a garden setting, showing the compact mop-like habit and evergreen structure. Credit: monrovia.com
+
 
 ### Links to Top Sources...
 - [Monrovia](https://www.monrovia.com/golden-mop-threadleaf-false-cypress.html)
