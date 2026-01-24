@@ -33,11 +33,12 @@ Mature plant in a garden setting, showing the dense mounding habit and evergreen
 - [Wayside Gardens](https://www.waysidegardens.com/products/rhododendron-perfecto-mundo-double-pink-azalea-27873)
 - [Great Garden Plants](https://www.greatgardenplants.com/products/perfecto-mundo-double-pink-reblooming-azalea)
 
+Other images if becomes available
 <img src="https://www.provenwinners.com/sites/provenwinners.com/files/styles/large/public/2020-04/Rhododendron%20Perfecto%20Mundo%20Double%20Pink%20closeup.jpg?itok=example" style="max-width: 100%; height: auto;">
-Close-up of the fully double pink blooms in cluster.
+Proven Winners
 
 <img src="https://plantaddicts.com/cdn/shop/products/PerfectoMundoDoublePinkAzalea1.jpg?v=example" style="max-width: 100%; height: auto;">
-Overall view of the compact, rounded shrub with flower coverage and glossy foliage.
+Plant Addicts
 
 <img src="https://www.provenwinners.com/sites/provenwinners.com/files/styles/large/public/2020-04/Rhododendron%20Perfecto%20Mundo%20Double%20Pink%20habit.jpg?itok=example" style="max-width: 100%; height: auto;">
-Mature plant in a garden setting, showing the dense mounding habit and evergreen structure.
+Proven Winners
