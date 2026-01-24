@@ -25,5 +25,5 @@ Close-up plant: Detailed image of ruffled leaves showing green centers with crea
 Full size plant: Mounded clump in a shade garden, illustrating the wide-spreading, low-growing form.  
 
 **Links to Top Sources:**  
-- Proven Winners (major grower): https://www.provenwinners.com/plants/hosta/shadowland-wheee-hosta-hybrid  
-- Missouri Botanical Garden: https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=365953
+- [Proven Winners](https://www.provenwinners.com/plants/hosta/shadowland-wheee-hosta-hybrid)
+- [Missouri Botanical Garden](https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=365953)
