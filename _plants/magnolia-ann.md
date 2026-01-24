@@ -31,7 +31,6 @@ scientific_name: Magnolia × 'Ann'
 ### Plant Summary
 'Ann' is one of the famous "Little Girl" hybrid magnolias, bred by the U.S. National Arboretum from a cross between *Magnolia liliiflora* 'Nigra' and *Magnolia stellata* 'Rosea'. It grows slowly into a compact, lovely landscape focal point for small gardens.
 
-### Photos
 <img src="https://github.com/user-attachments/assets/85439738-59a9-4ca7-8ee3-eaeb821a3242" alt="Close-up showing large, cup-shaped purple-red flowers with a light scent, often with 6-8 tepals opening wide." style="max-width: 100%; height: auto;">
 Close-up showing large, cup-shaped purple-red flowers with a light scent, often with 6-8 tepals opening wide.
 
