@@ -18,13 +18,13 @@ scientific_name: Adiantum hispidulum
 
 **Plant Summary:** Native to eastern Africa, Asia, and Pacific islands, this fern has bipinnate to tripinnate fronds up to 14 inches long, forming graceful clumps. It can be deciduous in cooler zones but remains evergreen in warmer or indoor settings. Young fronds start rosy-red before maturing to green, adding color interest. It thrives in moist, well-drained soil and is often grown as an ornamental in shadehouses or gardens, tolerating some dryness once established.
  
-<img src="(https://github.com/user-attachments/assets/3a9544b9-b756-49e2-b1a0-983eeca70709)" style="max-width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/3a9544b9-b756-49e2-b1a0-983eeca70709" style="max-width: 100%; height: auto;">
 - Young growth: Close-up of emerging rosy-pink fronds contrasting with mature green ones.  
 
-<img src="(https://github.com/user-attachments/assets/c28533c6-e92e-4e63-8eb5-73b973b6abf3)" style="max-width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/c28533c6-e92e-4e63-8eb5-73b973b6abf3" style="max-width: 100%; height: auto;">
 - Full size plant: Clump-forming fern in a shaded setting, showing upright fronds and compact habit.
 
-<img src="(https://github.com/user-attachments/assets/1f82314b-af23-4eab-bd48-4e27907206e8)style="max-width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/1f82314b-af23-4eab-bd48-4e27907206e8" style="max-width: 100%; height: auto;">
 
 ### Links to Top Sources...
 
