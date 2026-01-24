@@ -19,13 +19,13 @@ scientific_name: Gardenia jasminoides LEETWO
 **Plant Summary:** This cold-hardy, reblooming gardenia cultivar is prized for its intoxicating fragrance and pristine single white blooms that appear from late spring and continue sporadically into fall. It forms a compact, rounded evergreen shrub with thick, glossy, lance-shaped dark green leaves. Ideal as a specimen plant, in borders, or containers, it adds elegance and year-round interest to gardens. Bred for improved hardiness and disease resistance, it thrives in Southern landscapes.
 
 <img src="https://plants.waltonsgarden.com/Content/Images/Photos/H167-23.jpg" style="max-width: 100%; height: auto;">
-- Close-up of the fragrant single white blossoms against dark green foliage.
+Close-up of the fragrant single white blossoms against dark green foliage.
 
 <img src="https://southernlivingplants.com/wp-content/uploads/Gardenia_ScentAmazing_New_Construction_160516_Gardenia173_1200x630.jpg" style="max-width: 100%; height: auto;">
-- Overall view of the compact, mounding shrub in a garden setting.
+Overall view of the compact, mounding shrub in a garden setting.
 
 <img src="https://southernlivingplants.com/wp-content/uploads/Gardenia_ScentAmazing_Habit_X21A3892_1200x630.jpg" style="max-width: 100%; height: auto;">
-- Mature plant showing blooms and evergreen leaves.
+Mature plant showing blooms and evergreen leaves.
 
 ### Links to Top Sources...
 
