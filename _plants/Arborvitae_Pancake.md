@@ -2,10 +2,11 @@
 layout: default
 title: thuja pancake
 common_name: Arborvitae - Pancake
-scientific_name: Thuja occidentalis 'Concesarini' PP24013
+scientific_name: Thuja occidentalis 'Pancake'
 ---
 
 ## Pancake Arborvitae
+*Thuja occidentalis 'Pancake'*
 *Thuja occidentalis 'Concesarini' PP24013*
 
 - **Preferred Light Exposure:** Full sun (tolerates partial shade but best color and density in full sun).
